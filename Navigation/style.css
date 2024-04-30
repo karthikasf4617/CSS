@@ -1,0 +1,42 @@
+#content
+{
+    display: flex;
+    justify-content: center;
+}
+ul{
+    list-style: none;
+    background-color: black;
+}
+ul li
+{
+    display: inline-block;
+    position:relative;
+}
+ul li a
+{
+    display: block;
+    padding: 20px 25px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+ul li ul.dropdown
+{
+    display: block;
+}
+ul li ul.dropdown
+{
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    z-index: 999;
+    display: none;
+}
+ul li a.hover
+{
+    background-color: black;
+}
+ul li:hover ul.dropdown
+{
+    display: block;
+}
