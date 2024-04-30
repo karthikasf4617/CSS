@@ -1,0 +1,337 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 249, 249);
+    font-size: 17;
+    width: 100%;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbar
+{
+    
+    position: fixed;
+    top: -3%;
+}
+#img1
+{
+    padding-top: 10%;
+}
+ul{
+    list-style: none;
+    background-color:white;
+}
+ul li
+{
+    display: inline-block;
+    position:relative;
+}
+ul li a
+{
+    display: block;
+    padding: 20px 25px;
+    text-decoration: none;
+    text-align: center;
+}
+ul li ul.dropdown1
+{
+    display: block;
+}
+ul li ul.dropdown1
+{
+    width: 100%;
+    background-color:white;
+    border-style: solid;
+    border-color: gray;
+    align-items: center;
+    box-shadow: 2px 2px rgb(199, 190, 190);
+    color: rgb(15, 13, 13);
+    position: absolute;
+    z-index: 999;
+    display: none;
+}
+ul li a.hover
+{
+    background-color: rgb(241, 234, 234);
+    color: rgb(151, 17, 17);
+}
+ul li:hover ul.dropdown1
+{
+    color: brown;
+    display: block;
+}
+ul li ul.dropdown2
+{
+    display: block;
+}
+ul li ul.dropdown2
+{
+    width: 100%;
+    background-color:white;
+    color: rgb(15, 13, 13);
+    border-style: solid;
+    align-items: center;
+    border-color: gray;
+    box-shadow: 2px 2px rgb(199, 190, 190);
+    position: absolute;
+    z-index: 999;
+    display: none;
+}
+ul li:hover ul.dropdown2
+{
+    color: brown;
+    display: block;
+}
+ul li ul.dropdown3
+{
+    display: block;
+}
+ul li ul.dropdown3
+{
+    width: 100%;
+    background-color:white;
+    color: rgb(15, 13, 13);
+    align-items: center;
+    border-style: solid;
+    border-color: gray;
+    box-shadow: 2px 2px rgb(199, 190, 190);
+    position: absolute;
+    z-index: 999;
+    display: none;
+   
+}
+ul li:hover ul.dropdown3
+{
+    color: brown;
+    display: block;
+    
+}
+ul li ul.dropdown4
+{
+    display: block;
+}
+ul li ul.dropdown4
+{
+    width: 100%;
+    background-color:white;
+    color: rgb(15, 13, 13);
+    border-style: solid;
+    align-items: center;
+    border-color: gray;
+    box-shadow: 2px 2px rgb(199, 190, 190);
+    position: absolute;
+    z-index: 999;
+    display: none;
+   
+}
+ul li:hover ul.dropdown4
+{
+    color: brown;
+    display: block;
+    
+}
+#button1
+{
+    border-radius: 10%;
+    border-color: gray;
+    color: black;
+    height: 5%;
+}
+#button2
+{
+    border-radius: 10%;
+    border-color: rgb(212, 64, 22);
+    background-color:rgb(212, 64, 22) ;
+    color: rgb(248, 244, 244);
+    height: 5%;
+}
+#title
+{
+    padding: 10%;
+    font-size: 19;
+}
+#form
+{
+    background-color: rgb(206, 249, 253);
+    padding-top: 5%;
+    height: 91%;
+    display: flex;
+    border-color: rgb(244, 239, 239);
+    border-style: solid;
+    justify-content: center;
+    width:100%;
+}
+#details
+{
+    text-align: left;
+    float:left;
+    width: 40%;
+    margin: 5%;
+}
+#contactform
+{
+    border-color: rgb(208, 194, 194);
+    border-style: solid;
+    box-shadow: 2px 2px gray;
+    float: left;
+    width:40%;
+}
+#heading
+{
+    text-align: center;
+}
+#form1
+{
+    padding-left: 15%;
+    text-align: left;
+}
+#textarea
+{
+    align-items: start;
+}
+#checkbox
+{
+    padding-top: 5%;
+    text-align: center;
+    
+    border-color: rgb(108, 107, 107);
+    border-style:solid;
+    border-width: 0%;
+    width: 60%;
+    height: 7%;
+
+}
+#button3
+{
+    width: 80%;
+    height: 5%;
+    background-color: orangered;
+    border-color:orangered ;
+    color: wheat;
+}
+#locations
+{
+    text-align: left;
+    border-style: solid;
+    border-color: white;
+}
+
+#location1
+{
+    float: left;
+    height: 50%;
+    width: 44%;
+    background-color: beige;
+    border-style: solid;
+    border-color: rgb(228, 213, 213);
+    box-shadow: 5px 5px 5px 5px rgb(219, 219, 216);
+    margin-right:5%;
+}
+#img2
+{
+    width: 100%;
+    height: 45%;
+}
+h2
+{
+   text-align: center;
+}
+address
+{
+    padding-left: 5%;
+    text-align: left;
+    padding-bottom: 1%;
+}
+#location2
+{
+    margin-left: 3%;
+    float: left;
+    height: 50%;
+    width: 44%;
+    background-color: beige;
+    border-style: solid;
+    border-color: rgb(228, 213, 213);
+    box-shadow: 5px 5px 5px 5px rgb(219, 219, 216);
+}
+#img3
+{
+    width: 100%;
+    height: 45%;
+}
+
+#location3
+{
+    margin-top: 7%;
+    margin-right: 5%;
+    float:left;
+    height: 50%;
+    width: 44%;
+    background-color: beige;
+    border-style: solid;
+    border-color: rgb(228, 213, 213);
+    box-shadow: 5px 5px 5px 5px rgb(219, 219, 216);
+}
+#img4
+{
+    width: 100%;
+    height: 45%;
+}
+
+#location4
+{
+    margin-top: 7%;
+    margin-left: 3%;
+    float: left;
+    height: 50%;
+    width: 44%;
+    background-color: beige;
+    border-style: solid;
+    border-color: rgb(228, 213, 213);
+    box-shadow: 5px 5px 5px 5px rgb(219, 219, 216);
+    margin-bottom: 5%;
+}
+#img5
+{
+    width: 100%;
+    height: 45%;
+}
+#locationheading
+{
+    text-align: center;
+}
+#contact
+{
+    
+}
+#logo
+{
+    margin: 3%;
+    height: 5%;
+    width: 5%;
+}
+#logo1
+{
+    margin:1%;
+    height: 5%;
+}
+#footer
+{
+    background-color: aqua;
+    text-align: left;
+}
+#first,#second,#Third,#Fourth
+{
+    margin-right: 3.5%;
+    float: left;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+a.hover
+{
+   
+    color: brown;
+}
