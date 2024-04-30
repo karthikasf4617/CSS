@@ -1,0 +1,175 @@
+#button1
+{
+    background-color: red;
+    border-color: red;
+    height: 5%;
+    width: 8%;
+    color: white;
+}
+#button2
+{
+    background-color: rgb(69, 135, 155);
+    border-color:rgb(69, 135, 155) ;
+    height: 5%;
+    width: 8%;
+    color: white;
+}
+#button3
+{
+    background-color: rgb(32, 149, 14);
+    border-color:rgb(32, 149, 14) ;
+    height: 5%;
+    width: 8%;
+    color: white;
+}
+#button4
+{
+    background-color: rgb(227, 171, 17);
+    border-color: rgb(227, 171, 17) ;
+    height: 5%;
+    width: 8%;
+    color: white;
+}
+#button5
+{
+    background-color: rgb(54, 125, 98);
+    border-color: rgb(54, 125, 98) ;
+    height: 5%;
+    width: 8%;
+    color: white;
+}
+#button6
+{
+    background-color: rgb(12, 7, 7);
+    height: 5%;
+    width: 8%;
+    color: white;
+}
+#button7
+{
+    background-color: rgb(137, 133, 133);
+    border-color:  rgb(137, 133, 133) ;
+    height: 5%;
+    width: 8%;
+    color: white;
+}
+#button8
+{
+    background-color: rgb(251, 246, 246);
+    border-color: rgb(159, 159, 159);
+    height: 5%;
+    width: 8%;
+    color: black;
+}
+#button9
+{
+    background-color: rgb(108, 113, 114);
+    border-color: rgb(108, 113, 114) ;
+    border-radius: 9%;
+    height: 5%;
+    width: 8%;
+    color: rgb(19, 18, 18);
+}
+#button10
+{
+    background-color: rgb(249, 253, 248);
+    border-color:rgb(74, 169, 186) ;
+    border-radius: 9%;
+    height: 5%;
+    width: 8%;
+    color: rgb(20, 18, 18);
+}
+#button11
+{
+    background-color: rgb(243, 241, 235);
+    border-color: rgb(174, 41, 41) ;
+    border-radius: 15%;
+    height: 5%;
+    width: 8%;
+    color: rgb(174, 41, 41);
+}
+#button12
+{
+    background-color: rgb(236, 242, 240);
+    border-color: rgb(54, 125, 98) ;
+    border-radius: 20%;
+    height: 5%;
+    width: 8%;
+    color: rgb(13, 12, 12);
+}
+#button13
+{
+    background-color: rgb(199, 58, 58);
+    height: 5%;
+    width: 8%;
+    color: white;
+    text-shadow: 1px 1px white;
+}
+#button14
+{
+    background-color: rgb(8, 6, 6);
+    border-color:  rgb(5, 4, 4) ;
+    height: 5%;
+    width: 8%;
+    color: white;
+}
+#button15
+{
+    background-color: rgb(8, 6, 6);
+    border-color:  rgb(5, 4, 4) ;
+    border-radius: 99%;
+    font-size: 19;
+    height: 5%;
+    width: 5%;
+    color: white;
+}
+#button16
+{
+    background-color: rgb(48, 148, 146);
+    border-color:  rgb(48, 148, 146) ;
+    border-radius: 99%;
+    font-size: 19;
+    height: 5%;
+    width: 5%;
+    color: white;
+}
+#button17
+{
+    background-color: rgb(103, 100, 100);
+    border-color:  rgb(103, 100, 100) ;
+    border-radius: 99%;
+    font-size: 19;
+    height: 5%;
+    width: 5%;
+    color: rgb(10, 10, 10);
+}
+#no4
+{
+    display: flex;
+    
+    
+}
+#button18
+{
+    background-color: black;
+    color: white;
+    height: 8%;
+    width: 8%;
+    
+}
+#button19
+{
+    background-color: rgb(19, 92, 93);
+    border-color:rgb(19, 92, 93) ;
+    color: white;
+    height: 8%;
+    width: 8%;
+}
+#button20
+{
+    background-color: gray;
+    border-color:  gray;
+    color: white;
+    height: 8%;
+    width: 8%;
+}
