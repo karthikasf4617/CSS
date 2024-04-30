@@ -1,0 +1,21 @@
+
+#img1
+{
+    border-radius: 5%;
+}
+#img2
+{
+    border-radius: 99%;
+}
+#img3
+{
+    border-color: rgb(155, 23, 23);
+    border-style: solid;
+    
+}
+#left
+{
+    position: relative;
+    top: -8%;
+    left: 16px;
+}
